@@ -56,7 +56,7 @@ Una breve descripción del proyecto, qué hace y por qué es interesante.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fgarciafer&show_icons=true&theme=radical)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?fgarciafer=tu_usuario&layout=compact&theme=radical)](https://github.com/fgarciafer)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fgarciafer&layout=compact&theme=radical)](https://github.com/fgarciafer)
 
 ---
 
